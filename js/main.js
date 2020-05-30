@@ -1,5 +1,7 @@
+import river from './components/river.js';
+
 const init = () => {
-  console.log('IN INIT');
+  river.makeRiver();
 }
 
 init();
