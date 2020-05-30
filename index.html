@@ -19,21 +19,23 @@
         <div class="tagline">Katmai National Park & Brooks River</div>
       </div>
     </div>
+    <form class="bearForm m-auto">
+      <h3 class="formHeader">Bear Tracker</h3>
+      <div class="row d-flex justify-content-between bear-form-row">
+        <label for="formBearName" class="col-sm-2 bear-form-label my-auto">Bear Name:</label>
+        <div class="col-xs-3 col-sm-3 bear-form-input my-auto pl-0 mr-auto">
+          <input type="text" class="form-control form-control-lg h-100" placeholder="Bear Name" id='formBearName'>
+        </div>
+        <label for="formBearImageURL" class="col-sm-2 bear-form-label my-auto">Image URL:</label>
+        <div class="col-xs-3 col-sm-3 bear-form-input my-auto pl-0 mr-auto">
+          <input type="text" class="form-control form-control-lg h-100" placeholder="Image URL" id="formBearImageURL">
+        </div>
+        <button
+          class="col-sm-1 btn btn-primary d-flex justify-content-center align-items-center bear-form-button my-auto">
+          <span class="button-text">Submit</span></button>
+      </div>
+    </form>
   </div>
-
-  <form>
-    <h3 class="formHeader">Bear Tracker</h3>
-    <div class="row d-flex justify-content-between">
-      <label for="formBearName" class="bear-form-label">Bear Name:</label>
-      <div class="col-4 bear-form-input">
-        <input type="text" class="form-control form-control-lg" placeholder="Bear Name" id='formBearName'>
-      </div>
-      <label for="formBearImageURL" class="bear-form-label">Image URL:</label>
-      <div class="col-4 bear-form-input">
-        <input type="text" class="form-control form-control-lg" placeholder="Image URL" id="formBearImageURL">
-      </div>
-    </div>
-  </form>
 
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
