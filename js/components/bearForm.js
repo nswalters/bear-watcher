@@ -15,6 +15,7 @@ const addToRiverEvent = (e) => {
 
   river.makeRiver();
   $('#bearForm').trigger("reset");
+  location.href = "#river";
 };
 
 export default {
