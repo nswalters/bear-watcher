@@ -2,8 +2,6 @@ import bearsData from '../helpers/data/bearData.js';
 import utils from '../helpers/utils.js';
 
 const makeRiver = () => {
-  console.log(bearsData.getBears());
-
   const bears = bearsData.getBears();
 
   let domString = '';
