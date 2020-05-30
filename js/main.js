@@ -1,7 +1,9 @@
-import river from './components/river.js';
+// import river from './components/river.js';
+import bearForm from './components/bearForm.js';
 
 const init = () => {
-  river.makeRiver();
+  bearForm.addBearButtonListener();
+  // river.makeRiver();
 }
 
 init();
