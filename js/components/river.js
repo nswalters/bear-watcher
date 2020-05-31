@@ -20,12 +20,146 @@ const makeRiver = () => {
             <span class="bear-success-icon bear-success-count">110</span>
             <i class="fas fa-fish fa-2x bear-success-icon right-5"></i>
           </div>
+          <div class="timestamp-container container">
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col col-6">
+                <div>2020-05-30 21:41</div>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="card-body-right col col-6">
           <div class="bear-icons d-flex flex-row-reverse justify-content-between">
             <i class="far fa-minus-square fa-2x bear-failed-icon"></i>
             <span class="bear-failed-icon bear-fail-count">54</span>
             <i class="fas fa-fish fa-2x bear-failed-icon fa-flip-horizontal"></i>
+          </div>
+          <div class="timestamp-container container">
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+                <div class="col col-6">
+                  <div>2020-05-30 21:41</div>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col col-6">
+                <div>2020-05-30 21:41</div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
