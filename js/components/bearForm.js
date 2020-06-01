@@ -1,5 +1,5 @@
 import river from './river.js';
-import bears from '../helpers/data/bearData.js';
+import bearsData from '../helpers/data/bearData.js';
 
 const addBearButtonListener = () => {
   $('#add-bear-button').click(addToRiverEvent);
@@ -11,7 +11,7 @@ const addToRiverEvent = (e) => {
   let bearName = $('#formBearName').val();
   let bearImageURL = $('#formBearImageURL').val();
 
-  bears.setBears(bearName, bearImageURL);
+  bearsData.setBears(bearName, bearImageURL);
 
   river.makeRiver();
   $('#bearForm').trigger("reset");
