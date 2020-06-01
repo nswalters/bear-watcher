@@ -38,3 +38,7 @@ You have been tasked with creating a site scientists and park ranger can use to 
 ## Screenshot of Bonus 1 requirements fulfilled
 
 ![Bear card layout with live times](https://user-images.githubusercontent.com/10491407/83370287-8e803980-a384-11ea-81d2-bf8cca89ab95.png)
+
+**iPhone 6/7/8 Plus Version**
+
+![iPhone-6-7-8-Plus-screenshot](https://user-images.githubusercontent.com/10491407/83371803-24b65e80-a389-11ea-9db4-0b73e7de7ff0.png)
