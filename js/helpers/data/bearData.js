@@ -8,7 +8,9 @@ const setBears = (bearName, bearImageURL) => {
     name: bearName,
     imageURL: bearImageURL,
     caughtCount: 0,
+    caughtTimestamps: [],
     missedCount: 0,
+    missedTimestamps: [],
   }
 
   bears.push(bear);
