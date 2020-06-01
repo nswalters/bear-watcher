@@ -86,10 +86,10 @@ const makeRiver = () => {
     domString += `
     <div class="card bear-card">
       <img src="${bear.imageURL}" alt="Image of Tracked Bear" class="card-img-top card-image">
-      <div class="bear-name-holder d-flex justify-content-center align-items-center px-2">
-        ${bear.name}
-      </div>
       <div class="card-body d-flex p-0 bear-card-body">
+        <div class="bear-name-holder d-flex justify-content-center align-items-center px-2">
+          ${bear.name}
+        </div>
         <div class="card-body-left col col-6">
           <div class="bear-icons d-flex justify-content-between">
             <i class="far fa-plus-square fa-2x bear-success-icon" id="${bear.id}"></i>
