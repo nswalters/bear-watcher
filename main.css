@@ -108,6 +108,8 @@ body {
   position: absolute;
   transform: translate(5.5%, -50%);
   z-index: 99;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 .bear-success-icon {
