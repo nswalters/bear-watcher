@@ -34,3 +34,7 @@ You have been tasked with creating a site scientists and park ranger can use to 
 **iPhone 6/7/8 Plus Version**
 
 ![Screenshot of mobile version for iPhone 6/7/8 plus](./screenshots/iphone-6_7_8-version.png)
+
+## Screenshot of Bonus 1 requirements fulfilled
+
+![Bear card layout with live times](https://user-images.githubusercontent.com/10491407/83370287-8e803980-a384-11ea-81d2-bf8cca89ab95.png)
